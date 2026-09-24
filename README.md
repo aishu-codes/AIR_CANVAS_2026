@@ -8,3 +8,8 @@ Implemented MediaPipe Hand Tracking to detect hand landmarks, enabling real-time
 Designed custom canvas overlay algorithms to render smooth lines and dynamic color selections directly on live video feeds with minimal latency.
 
 Integrated visual control panels and gesture triggers for seamless color switching, clearing canvas state, and saving canvas snapshots locally.
+poster:
+[AI-POWERED SMART AIR CANVAS USING COMPUTER VISION.pdf](https://github.com/user-attachments/files/32611337/AI-POWERED.SMART.AIR.CANVAS.USING.COMPUTER.VISION.pdf)
+
+
+
